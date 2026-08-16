@@ -1,0 +1,8 @@
+{
+  "name": "Remix MedLogic Canvas",
+  "description": "Transparent AI medical reasoning visualizer and decision support platform with human-in-the-loop node editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
